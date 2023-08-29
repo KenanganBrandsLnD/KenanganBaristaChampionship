@@ -1,0 +1,17 @@
+html,body{
+    height: 100%;
+ background-image: url("https://drive.google.com/uc?export=download&id=1XvwxZDtKQn3Wk8kASoaFj6GXlgSvjQFq");
+background-size: 1200px;
+background-repeat: repeat;
+
+
+}
+
+.LogoKBC{
+    width: auto;
+    height: 250px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
